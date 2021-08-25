@@ -1,0 +1,1 @@
+ bil_acak = sqrt(0.2).*randn(1,100) + 1
